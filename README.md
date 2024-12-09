@@ -7,7 +7,7 @@ Dataset.
 This project is a part of the AAI-521 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). Project Status: [Completed]
 
 Installation
-To use this project, first clone the repo on your device using the below command: git clone [https://github.com/maleal2/Fitness_Tracker_wearable_device_project_Group_1](https://github.com/maleal2/Object-Detection-in-Autonomous-Driving-Using-BDD100K-Dataset.git)
+To use this project, first clone the repo on your device using the below command: git clone (https://github.com/maleal2/Object-Detection-in-Autonomous-Driving-Using-BDD100K-Dataset.git)](https://github.com/maleal2/Object-Detection-in-Autonomous-Driving-Using-BDD100K-Dataset.git)
 
 Project Introduction
 
