@@ -7,7 +7,7 @@ Dataset.
 This project is a part of the AAI-521 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). Project Status: [Completed]
 
 Installation
-To use this project, first clone the repo on your device using the below command: git clone (https://github.com/maleal2/Object-Detection-in-Autonomous-Driving-Using-BDD100K-Dataset.git)
+To use this project, first clone the repo on your device using the below command: git clone https://github.com/maleal2/Object-Detection-in-Autonomous-Driving-Using-BDD100K-Dataset.git
 
 Project Introduction
 
@@ -23,7 +23,7 @@ Methods Used
 Python, YOLOv8, albumentations, Pytorch
 
 Project Description
-Data source: (https://dl.cv.ethz.ch/bdd100k/data/)
+Data source: https://dl.cv.ethz.ch/bdd100k/data/
 
 Name of the variables:
 pedestrian, car, rider, motorcycle, traffic_light, traffic_sign, bus, bicycle, truck, other_vehicle, train, other_person, trailer
