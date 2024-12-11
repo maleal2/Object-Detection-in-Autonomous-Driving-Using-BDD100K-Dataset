@@ -23,7 +23,7 @@ Methods Used
 Python, YOLOv8, albumentations, Pytorch
 
 Project Description
-Data source: [https://www.kaggle.com/datasets/arashnic/fitbit](https://dl.cv.ethz.ch/bdd100k/data/)
+Data source: (https://dl.cv.ethz.ch/bdd100k/data/)
 
 Name of the variables:
 pedestrian, car, rider, motorcycle, traffic_light, traffic_sign, bus, bicycle, truck, other_vehicle, train, other_person, trailer
